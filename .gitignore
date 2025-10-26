@@ -1,0 +1,66 @@
+# Microsoft Board Documents - Confidential Materials
+# These contain MNPI (Material Non-Public Information) and must not be committed
+Microsoft Board Documents/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs and databases
+*.log
+!abd.log
+*.sql
+*.sqlite
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Node modules (if applicable)
+node_modules/
+
+# Python (if applicable)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Confidential board materials
+**/board-materials/
+**/confidential/
+*.confidential.*
+
+# Personal notes
+notes/
+personal-notes/
