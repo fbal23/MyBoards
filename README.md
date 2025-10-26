@@ -59,6 +59,19 @@ Professional board members face:
 - Action item extraction from minutes
 - Relationship mapping
 
+### 5. Board Negotiation Intelligence
+- **Stakeholder persona analysis** - Build comprehensive profiles of board members, management, and other stakeholders
+- **Multi-dimensional positioning** - Assess each stakeholder's position, salience, clout, and flexibility on key issues
+- **Coalition mapping** - Identify voting blocs and potential alliances
+- **Temporal tracking** - Monitor how positions evolve over time
+- **Negotiation strategy development** - Generate data-driven negotiation plans for contentious board decisions
+- **BATNA analysis** - Evaluate alternatives to proposed agreements
+- **Outcome prediction** - Forecast voting outcomes with confidence intervals
+
+**Methodology:** Hybrid approach combining McKinsey stakeholder analysis framework with GraphRAG/Neo4j knowledge graphs for automated intelligence gathering and relationship modeling.
+
+**Example use case:** Preparing for a contentious vote on a $10B strategic investment by analyzing historical voting patterns, identifying persuadable stakeholders, and developing coalition-building strategies.
+
 ## Requirements
 
 ### Hardware
@@ -151,6 +164,9 @@ This repository contains:
 - **claude.md** - Technical project documentation
 - **abd.log** - Development log and planning notes
 - **Microsoft Board Documents/** - Example board materials collection (gitignored)
+- **Board_Negotiation_Strategy_Analysis.md** - Comprehensive analysis comparing McKinsey and GraphRAG methodologies (26,000 words)
+- **McKinsey_Framework_Improvements.md** - Seven enhancements to modernize the McKinsey stakeholder framework (18,000 words)
+- **Microsoft_Board_Negotiation_Prototype.md** - Working example demonstrating improved negotiation framework (11,000 words)
 
 ### Example Board Materials
 
